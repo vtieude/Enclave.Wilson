@@ -6,10 +6,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-=======
             Console.WriteLine("Hello World!");
->>>>>>> fix_ui
             Console.WriteLine("Hello masster!");
             Console.WriteLine("Hello World!");
         }

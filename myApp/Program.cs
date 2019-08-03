@@ -6,8 +6,8 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            hahahaahah;
+            xin chao cac ban.
         }
     }
 }
